@@ -4,7 +4,7 @@ getwd()
 # Step 2: Use file.choose() to select the file manually
 wbcd_path <- file.choose()  # This will open a dialog to choose the file
 wbcd <- read.csv(wbcd_path, stringsAsFactors = FALSE)
-
+ffllf
 # Step 3: Display the structure of the dataframe
 str(wbcd)
 
